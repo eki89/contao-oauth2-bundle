@@ -40,7 +40,7 @@
         "contao/manager-plugin": "<2.0 || >=3.0"
     },
     "extra": {
-        "contao-manager-plugin": "Craffft\\ApiClientBundle\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "Craffft\\ContaoOAuth2Bundle\\ContaoManager\\Plugin"
     },
     "autoload": {
         "psr-4": {
